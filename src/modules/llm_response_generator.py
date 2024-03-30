@@ -8,7 +8,7 @@ from data.mock_app_data import MockData
 class LlmResponseGenerator(ABC):
 
     def __init__(self):
-        api_key = "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"
+        api_key = ""
         self.client = OpenAI(api_key=api_key)
 
 
