@@ -1,0 +1,4 @@
+{
+  "hr": "contains data about employees, their names and ids and their reporting mangers",
+  "payroll": "contains data about compensation or salary. it can provide data only if employee id is given as input."
+}

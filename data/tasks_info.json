@@ -1,0 +1,14 @@
+{
+  "hr": {
+    "get_employee_name": "api that takes employee id as input and returns the employee name",
+    "get_employee_id": "api that takes employee name as input and returns the employee id",
+    "get_manager_name": "api that takes employee id as input and returns the manager's name",
+    "get_manager_id": "api that takes employee id as input and returns the manager's employee id"
+  },
+
+  "payroll": {
+    "get_comp": "api that takes employee id as input and returns the compensation of the employee",
+    "get_total_comp": "api that takes list of employee ids as input and returns the total compensation of all the employees in the input"
+  }
+
+}
